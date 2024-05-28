@@ -123,3 +123,10 @@ A curated list of awesome introductory programming resources for a variety of sp
   ##### People to follow: [@kelsiemvn](https://twitter.com/kelsiemvn) - [@IvanOnTech](https://twitter.com/IvanOnTech) - [Angie Jones](https://angiejones.tech/)
 
   ##### Project ideas: build a basic blockchain from scratch
+
+(brian addition)
+## AI
+- [Andrej Karpathy talks/tutorials](https://www.youtube.com/watch?v=zjkBMFhNj_g) - Youtube Videos from an AI expert on LLMs/machine learning
+- [Coursera](https://www.deeplearning.ai/courses/) - DeepLearning.ai courses on AI/Machine Learning
+- [Handwritten digit recognition](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627) - Tutorial on image recognition
+- [How Does AI Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - Really long article explaining how chatgpt/LLMs work
